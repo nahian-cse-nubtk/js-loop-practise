@@ -21,6 +21,6 @@ while(n<=20)
     {
         break;
     }
-    console.log(n);
+    console.log(n);d
     n++;
 }
